@@ -155,6 +155,7 @@ SIMPLE_JWT = {
 }
 
 CORS_ALLOWED_ORIGINS = [
+    "https://redstore-frontend-052p.onrender.com",
     "http://127.0.0.1:5173",
     "http://localhost:5173",
     "http://192.168.18.3:5173"  # ejemplo si accedes desde otro dispositivo
